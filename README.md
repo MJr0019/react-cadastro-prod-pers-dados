@@ -38,7 +38,7 @@ Para começar a usar este projeto, siga as seguintes opções para começar:
 
 ou
 
-* Baixe a [Última Versão do Projeto](https://github.com/MJr0019/react-cadastro-prod/tags)
+* Baixe a [Última Versão do Projeto](https://github.com/MJr0019/react-cadastro-prod-pers-dados/tags)
 
 **2.**
 
