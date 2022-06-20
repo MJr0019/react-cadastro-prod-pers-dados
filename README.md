@@ -34,7 +34,7 @@
 
 Para começar a usar este projeto, siga as seguintes opções para começar:
 
-* Clone o Repositório, exemplo: `git clone https://github.com/MJr0019/react-cadastro-prod-multi-telas.git`
+* Clone o Repositório, exemplo: `git clone https://github.com/MJr0019/react-cadastro-prod-pers-dados.git`
 
 ou
 
@@ -62,7 +62,7 @@ ou
 
 ## Bugs & Problemas
 
-Tem um bug ou um problema com este projeto? [Abra um novo "issue"](https://github.com/MJr0019/react-cadastro-prod-multi-telas/issues) aqui no GitHub.
+Tem um bug ou um problema com este projeto? [Abra um novo "issue"](https://github.com/MJr0019/react-cadastro-prod-pers-dados/issues) aqui no GitHub.
 
 # Documentação do Sample Snack app
 
